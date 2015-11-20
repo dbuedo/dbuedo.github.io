@@ -1,0 +1,19 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+                        
+
+    /* TEAM */
+    Webmaster: David Buedo.
+    Conctact: david [at] davidbuedo.es
+    Twitter: @davidbuedo
+    From: La Roda, Albacete, Spain.
+
+	
+    /* SITE */
+    Last update: 2015/11/20 (migration to GitHub)
+    Standards: HTML5, CSS3, JavaScript
+    Components: HTML5 Boilerplate (Normalize.css, jQuery, Modernizr)
+    Software: Sublime, FileZilla, Paint.NET, GitHub
+
+
+                    
